@@ -1,6 +1,6 @@
 You can find all the essential details about this course in the repository.
 ---
-
+### **Course Outline**
 ### **Introduction**  
 - 📄 **Lecture 1** - Introduction to the Course  
 - 📄 **Lecture 2** - Introduction to Networking  
